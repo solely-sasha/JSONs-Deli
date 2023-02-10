@@ -1,0 +1,56 @@
+{
+    "Appetizers": [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+
+            "description": ""
+        }
+    ],
+    "Cold Sandwiches":  [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+
+            "description": ""
+        }
+    ],
+
+    "Desserts":  [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+
+            "description": ""
+        }
+    ],
+
+
+"Drinks":  [
+        {
+            "name": "",
+            "ingredients": [
+                "",
+                "",
+                ""
+            ],
+
+            "description": ""
+        }
+    ]
+
+
+
+}
